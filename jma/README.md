@@ -1,4 +1,4 @@
-# A calculator Flet app
+# A jma Flet app
 
 An example of a minimal Flet app.
 
